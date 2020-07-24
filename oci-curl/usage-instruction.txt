@@ -1,0 +1,4 @@
+#update oci-curl.sh & startdbnode.sh or stopdbnode.sh as per your tenancy configuration
+#run following command
+#dbnode oci can be found by searching in oci console with the string "dbnode"
+./startdbnode.sh <<dbnode ocid>>
